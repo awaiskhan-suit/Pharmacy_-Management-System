@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53542906141",
+    "project_id": "pharmacyinvoice-2db22",
+    "storage_bucket": "pharmacyinvoice-2db22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53542906141:android:affa95c3f0886e0416d9f4",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_invoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5L0_AHt4EQELmjh2zcMb1p4dbNdXTyQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
